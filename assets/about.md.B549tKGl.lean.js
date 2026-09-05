@@ -1,0 +1,1 @@
+import{Lt as e,Z as t,_t as n,vt as r}from"./chunks/framework.CsLlEPF4.js";var i=JSON.parse(`{"title":"关于我们","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}`),a={name:`about.md`};function o(t,i,a,o,s,c){return e(),n(`div`,null,[...i[0]||=[r("",8)]])}var s=t(a,[[`render`,o]]);export{i as __pageData,s as default};
