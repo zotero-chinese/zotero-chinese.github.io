@@ -1,0 +1,1 @@
+import{Et as e,Gt as t,Tt as n,n as r}from"./chunks/framework.D88M5COo.js";var i=JSON.parse(`{"title":"关于我们","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}`),a={name:`about.md`};function o(r,i,a,o,s,c){return t(),n(`div`,null,[...i[0]||=[e("",7)]])}var s=r(a,[[`render`,o]]);export{i as __pageData,s as default};

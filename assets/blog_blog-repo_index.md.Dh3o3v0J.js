@@ -1,0 +1,1 @@
+import{Gt as e,Tt as t,n}from"./chunks/framework.D88M5COo.js";var r=JSON.parse(`{"title":"","description":"","frontmatter":{"layout":"home"},"headers":[],"relativePath":"blog/blog-repo/index.md","filePath":"blog/blog-repo/index.md"}`),i={name:`blog/blog-repo/index.md`};function a(n,r,i,a,o,s){return e(),t(`div`)}var o=n(i,[[`render`,a]]);export{r as __pageData,o as default};
